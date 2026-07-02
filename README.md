@@ -11,14 +11,7 @@ A clean, responsive, and modern calculator built using **HTML, CSS, and JavaScri
 ---
 
 ## 📸 Preview
-
-> Add a screenshot of your calculator here.
-
-```md
 Calculator Preview.png
-```
-
----
 
 ## ✨ Features
 
