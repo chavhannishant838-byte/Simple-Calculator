@@ -6,7 +6,7 @@ A clean, responsive, and modern calculator built using **HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-🔗 **Coming Soon**
+🔗 *https://chavhannishant838-byte.github.io/Simple-Calculator/*
 
 ---
 
